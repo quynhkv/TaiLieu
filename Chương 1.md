@@ -1,4 +1,4 @@
-# Chương 1 : GIỚI THIỆU CHUNG
+# Chương 1: GIỚI THIỆU CHUNG
 1.1 *MẠNG TRUYỀN THÔNG VÀ CÔNG NGHỆ MẠNG*
 1.1.1 *Giới thiệu chung*
 - Truyền thông máy tính (computer communications) là quá trình truyền dữ liệu từ thiết bị này sang thiết bị khác.
@@ -31,7 +31,7 @@
     Ngoài việc phân loại theo diện hoạt động và topo, mạng còn được phân loại theo kiểu truyền thông mà chúng sử dụng , cùng với cách dữ liệu  được truyền đi. Hai phân loại điển hình là mạng chuyển mạch ảo(virtual circuit-switched) và mạng chuyển gói (packet-switched).
 - Trong mạch chuyển ảo(circuit-switched), phải thiết lập mạch vật lý giữa nút nguồn và đích trước khi di chuyển dữ liệu thực sự.
 - Trong mạng chuyển goi(packet-switched network), thông điệp đầu tiền được chia thành những đơn vị nhỏ gọn hơn gọ là gói (packet), sau những packet lần lượt được gửi tới nút nhận qua mạng lưới các thiết bị chuyển mạch trung gian (switch).
-1.1.4 Địa chỉ mạng , định tuyến, tính tin cậy, tính liên tác và an ninh mạng
+1.1.4 *Địa chỉ mạng , định tuyến, tính tin cậy, tính liên tác và an ninh mạng*
     Khái niệm mạng máy tính liên quan đến nhiều yếu tố , trong đó có đại chỉ, định tuyến, tính tin cậy, tính liên tác và an ninh mạng.
 - Địa chỉ (Address)
     Khái niệm địa chỉ liên quan đến việc gán cho mỗi nút mạng một địa chỉ duy nhất - cho phép các thiết bị khác định vị được nó.
@@ -55,7 +55,7 @@
     Chuẩn hiệp hội tương tự như chuẩn chính thức theo nghĩa chúng là sản phẩm của quá trình chuẩn hóa.
 1.2 *MÔ HÌNH OSI*
     Tổ chức ISO (International Standards Organization) được thành lập năm 1971 với mục đích xậy dựng các tiêu chuẩn quốc tế.
-1.2.1 Mô hình
+1.2.1 *Mô hình*
     Mô hình OSI được phân tầng với mục đích thiết kế các hệ thống mạng cho phép tất cả các kiểu hệ thống máy tính khác nhau có thể truyền thông với nhau. Mô hình có 7 tầng riêng biệt nhưng có liên quan đến nhau, mỗi tầng định nghĩa một phần của quá trình truyền thông tin trên mạng.
 * Kiến trúc phân tầng
 - Mô hình OSI gồm 7 tầng
@@ -102,3 +102,19 @@
 - Tầng phiên chịu trách nhiệm về:
     + Kiểm soát hội thoại
     + Đồng bộ hóa
+#####################################################################
+- Tầng trình diễn (Presentation layer): Tầng trình diễn biểu diễn cú pháp và nghĩa các thông tin được trao đổi giữa hai hệ thống.
+- Tầng trình diễn có nhiệm vụ:
+    + Phiên dịch(Translation)
+    + Mã hóa
+    + Nén
+- Tầng ứng dụng (Application): Tầng ứng dụng cho phép người dùng truy cập vào mạng bằng cách cung cấp gaio diện người sử dụng, hỗ trợ các dịch vụ như gửi thư điện tử, truy cập và chuyển file từ xa, quản lý CSDL dùng chung và một số dịch vụ khác về thông tin.
+- Tầng ứng dụng cung cấp các dịch vụ:
+    + Thiết bị đầu cuối ảo mạng
+    + Quản lý, truy cập và chuyển file
+    + Các dịch vụ khác
+1.2.3 *Bộ giao thức TCP/IP - Mô hình Internet*
+   - Bộ giao thức TCP/IP được ra đời khi có mô hình OSI. Các tầng trong bộ giao thức TCP/IP không giống hệt các tầng trong mô hình OSI. Bộ giao thức TCP/IP có 5 tầng: vật lý, liên kết dữ liệu, mạng, giao vận và ứng dụng.
+    - TCP/IP là giao thức phân cấp, được tạo thành bởi các module độc lập, mỗi module cung cấp một chức năng nhất dịnh, tuy nhiên các module này không nhất thiết phải độc lập với nhau. Mô hình OSI xác định rõ chức năng nào thuộc về tầng nào; trong khi đó các tầng của giao thức TCP/IP chứa các giao thức tương đối đọc lập với nhau, nhưng các giao thức này vẫn có thể kết hợp với nhau tùy thuộc nhu cầu hệ thống. Thuật ngữ "phân cấp" mang nghĩa mỗi giao thức ở tầng trên được hỗ trợ bởi 1 hoặc nhiều giao thức ở tầng dưới.
+    - Tại tầng giao vận, mô hình Internet có 2 giao thức: Transmission Control Protocol(TCP) và User Datagram Protocol(UDP). Tại tầng mạng là gioa thức Internetworking Protocol(IP), thường được gọi là IP.
+########################################################################
