@@ -67,7 +67,7 @@ HTTP xác định cách thức trình duyệt yêu cầu trang Web từ Web serv
     * Web tích cực(active Web) là loại văn bản có chứa chương trình. Chương trình này có khả năng tính toán và hiển thị thông tin. Khi trình duyệt yêu cầu, server sẽ gửi cho trình duyệt một văn bản có đính kèm chương trình. Trình duyệt sẽ chạy lại chương trình này tại máy tính cục bộ của mình, chương trình có thể tương tác với người sử dụng, tự động cập nhật thông tin theo nhu cầu người sử dụng. Do vậy nội dung trang Web tích cực không bất biến mà thay đổi khi chương trình tương ứng thực thi. Cơ chế Web động có ưu nhược điểm riêng so với Web tĩnh truyền thống.
 * Chuẩn CGI (Common Gateway Interface)
     CGI là một trong những công nghệ đã từng được sử dụng rất rộng rãi khi xây dựng Web động. Chuẩn CGI quy định cách thức Web server tương tác với chương trình ứng dụng (chương trình CGI).
-* Các kỹ thuật phía Server
+**Các kỹ thuật phía Server**
     Một phương pháp giúp Web server tạo nội dung động là các công nghệ phía server (server side technology). Ngày nay có khá nhiều công nghệ như vậy:
     + ASP (Active Server Pages): Là công nghệ của Microsoft, có phần mở rộng là .asp.
     + PHP (Personal Home Pages): Công nghệ mã nguồn mở, phần mở rộng là .jsp.
