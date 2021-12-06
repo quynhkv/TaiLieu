@@ -19,5 +19,4 @@
 - TOTOLINK A3002RU - V2
 - TOTOLINK A6004NS
 - TOTOLINK A8000RU
-> TOTOLINK mong rằng các thông tin trong bài viết này sẽ giúp người dùng hiểu và vận dụng tốt hơn máy chủ FTP để phục vụ cho nhu cầu sử dụng của chính mình.
 - ![email](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWhXa-GN_skUn_0OXhHGTpflgfX3GaTogug&usqp=CAU)
