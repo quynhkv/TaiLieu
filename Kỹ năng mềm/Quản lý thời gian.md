@@ -7,4 +7,4 @@
     + Nhận biết
     + Phân tích
     + Ưu tiên
-=> Đặt ra mục tiêu trong tầm kiểm soát, thực tế.
+> => Đặt ra mục tiêu trong tầm kiểm soát, thực tế.
