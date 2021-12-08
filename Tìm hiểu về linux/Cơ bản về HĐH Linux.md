@@ -1,6 +1,7 @@
 # LINUX
 ### **1. Hệ điều hành Linux là gì?**
-> Hệ điều hành Linux được phát triển dựa vào hệ điều hành Unix và được phát hành miễn phí. Server Linux thường được sử dụng nhiều hơn là Windows hay bất kì hệ điều hành nào khác. 
+> Hệ điều hành Linux được phát triển dựa vào hệ điều hành Unix và được phát hành miễn phí. Server Linux thường được sử dụng nhiều hơn là Windows hay bất kì hệ điều hành nào khác.
+> 
 ![email](https://wiki.matbao.net/wp-content/uploads/2019/07/linux-la-gi-tong-hop-moi-kien-thuc-ve-he-dieu-hanh-linux.jpg)
 - **Linux** là một hệ điều hành máy tính đang được sử dụng rộng rãi trong thời gian gần đây. Trong đó có 2 khách hàng lớn là IBM và Dell. Linux đồng thời cũng là tên hạt nhân của hệ điều hành này.
 ### **2. Ưu điểm của hệ điều hành Linux**
