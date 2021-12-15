@@ -1,4 +1,4 @@
-# TÌM HIỂU VỀ LAMP
+# TÌM HIỂU SƠ LƯỢC VỀ LAMP
 ### 1. LAMP là gì?
 - ### **Khái niệm**
     + ![m](https://f4-zpcloud.zdn.vn/4610653278723357913/74e424a197fe5da004ef.jpg)
