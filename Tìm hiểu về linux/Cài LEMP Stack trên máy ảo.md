@@ -66,4 +66,5 @@
 - **Bước 4**
   - Sau khi cấu hình hoàn tất các bạn trỏ tên miền về vps sau đó tạo **file /home/quynhkv.com/public_html/index.php** với nội dung sau và gõ tên miền của bạn vào thanh địa chỉ của trình duyệt để kiểm tra:
 > ![q](https://f4-zpcloud.zdn.vn/4032564261379063770/6df3252e6a3ba065f92a.jpg)
+
 > Hiển thị như trên là đã thành công.
