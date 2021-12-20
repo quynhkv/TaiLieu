@@ -2,7 +2,7 @@
 ### 1. Cài đặt Nginx Web Server
 - **Bước 1**
 - Vì NGINX không có sẵn repository của CentOS vì vậy chúng ta phải cài repository EPEL​ với câu lệnh sau:
-+ ![q](https://f5-zpcloud.zdn.vn/6925063237124805802/58dfc3bcc1a90bf752b8.jpg)
+> ![q](https://f5-zpcloud.zdn.vn/6925063237124805802/58dfc3bcc1a90bf752b8.jpg)
 - **Bước 2**
 - Cài đặt Nginx với lệnh sau:
 + ![q](https://f4-zpcloud.zdn.vn/7086798801051696369/caa783c981dc4b8212cd.jpg)
