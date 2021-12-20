@@ -1,4 +1,4 @@
-# Cài LEMP Stack
+# Cài LEMP Stack trên máy ảo CentOS 7
 ### 1. Cài đặt Nginx Web Server
 - **Bước 1**
   + Vì NGINX không có sẵn repository của CentOS vì vậy chúng ta phải cài repository EPEL​ với câu lệnh sau:
