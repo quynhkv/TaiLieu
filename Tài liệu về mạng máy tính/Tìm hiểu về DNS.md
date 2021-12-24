@@ -16,17 +16,13 @@
 - **NS Record**: Với bản ghi này, bạn có thể chỉ định Name Server cho từng Domain phụ. Bạn có thể tạo tên Name Server, Host mới, TTL.
 ### 4. Các loại DNS Server
 - **Root Name Server**:
-> ![q](https://f5-zpcloud.zdn.vn/8371436728242721181/e10ec8d7f3e139bf60f0.jpg)
-
     + Là máy chủ tên miền chứa các thông tin, để tìm kiếm các máy chủ tên miền lưu trữ (authority) cho các tên miền thuộc mức cao nhất (top-level-domain).
-
     + Máy chủ ROOT có thể đưa ra các truy vấn (query) để tìm kiếm tối thiểu các thông tin về địa chỉ của các máy chủ tên miền authority thuộc lớp top-level-domain chứa tên miền muốn tìm.
-
     + Quá trình tìm kiếm tên miền luôn được bắt đầu bằng các truy vấn gửi cho máy chủ ROOT. Nếu như các máy chủ tên miền ở mức ROOT không hoạt động, quá trình tìm kiếm này sẽ không được thực hiện.
+> ![q](https://f5-zpcloud.zdn.vn/8371436728242721181/e10ec8d7f3e139bf60f0.jpg)
 - **Local Name Server**:
-> ![q](https://f5-zpcloud.zdn.vn/2566830044143235308/20bdb31b882d42731b3c.jpg)
-
     + Server này chứa thông tin, để tìm kiếm máy chủ tên miền lưu trữ cho các tên miền thấp hơn. Nó thường được duy trì bởi các doanh nghiệp, các nhà cung cấp dịch vụ Internet (ISPs).
+> ![q](https://f5-zpcloud.zdn.vn/2566830044143235308/20bdb31b882d42731b3c.jpg)
 ### 5. Cơ chế hoạt động của DNS
 - Giả sử bạn muốn truy cập vào trang có địa chỉ quynhkv.vn
 - Trước hết chương trình trên máy người sử dụng gửi yêu cầu tìm kiếm địa chỉ IP ứng với tên miền quynhkv.vn tới máy chủ quản lý tên miền (name server) cục bộ thuộc mạng của nó.
