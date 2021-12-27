@@ -1,11 +1,14 @@
 # Một số giao diện liên quan đến công việc
 ### 1. CRM
+> ![q](https://f4-zpcloud.zdn.vn/3442219538402518228/87cc7f94e44f2e11775e.jpg)
 - Dùng để kiểm tra các Ticket.
 - Check email của khách hàng.
 - Check đơn hàng.
 ### 2. WHOIS
+> ![q](https://f5-zpcloud.zdn.vn/1974517244586695075/1288f5d06e0ba455fd1a.jpg)
 - Dùng để kiểm tra tên miền đang trỏ DNS về đâu.
 ### 3. ZONEDNS
+> ![q](https://f5-zpcloud.zdn.vn/8856048068439625461/14584d00d6db1c8545ca.jpg)
 - Quản lý, thêm khách hàng.
 - Quản lý, thêm domain.
 - Một số lưu ý:
