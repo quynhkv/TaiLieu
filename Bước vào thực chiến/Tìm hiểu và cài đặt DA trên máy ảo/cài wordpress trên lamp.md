@@ -122,4 +122,4 @@ post_max_size = 64M
 max_execution_time = 300
 ```
 ![6](https://f5-zpcloud.zdn.vn/212408421361587262/d31142c9a49169cf3080.jpg)
-> ![q](![image](https://user-images.githubusercontent.com/95211831/148640868-8bbd2786-ce93-4a58-8d94-b39f048df54e.png)
+
