@@ -93,8 +93,13 @@ Tiến hành thay đổi thông tin cơ sở dũ liệu, tài khoản, mật kh�
 
 ## Bước 5: Hoàn tất phần cài đặt giao diện
 
-Trên trình duyệt, gõ địa chỉ ip server trên thành url, trình duyệt sẽ xuất hiện như sau:
-
+Trên trình duyệt, gõ địa chỉ ip server trên thành url, tiến hành chọn ngôn ngữ, tạo tài khoản và tùy chỉnh:
+> ![q](https://f5-zpcloud.zdn.vn/4834607720589545522/2a4c6b339b5c56020f4d.jpg)
+> 
+> ![q](https://f5-zpcloud.zdn.vn/267522080475440614/713f0840f82f35716c3e.jpg)
+> 
+> ![q](https://f5-zpcloud.zdn.vn/6524461399965153673/7ea66fd89fb752e90ba6.jpg)
+- Đây là giao diện trang web.
 Bạn cần tiến hành phân quyền thư mục wordpress cho user apache để cho user này được phép tạo các thư mục và lưu các tệp tải lên. Trên của sổ terminal, ta gõ lệnh như sau:
 
 ```
@@ -122,3 +127,4 @@ post_max_size = 64M
 max_execution_time = 300
 ```
 ![6](https://f5-zpcloud.zdn.vn/212408421361587262/d31142c9a49169cf3080.jpg)
+
