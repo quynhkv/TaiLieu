@@ -108,4 +108,4 @@ define('DB_HOST', 'localhost');
 chown -R nginx:nginx /usr/share/nginx/quynhkkk.com/
 ```
 - Giờ ta truy cập vào trình duyệt bằng domain hoặc ip cua mình, chọn ngôn ngữ và cài đặt tùy chọn.
-![q](https://f5-zpcloud.zdn.vn/4821837728497111881/a3175ec9cabc07e25ead.jpg)
+
