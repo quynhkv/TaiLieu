@@ -9,18 +9,18 @@ Click chuột phải vào site chọn Add Website.
 
 Nhập tên site và chọn đến đường dẫn ta muốn.
 
-> ![q](https://f5-zpcloud.zdn.vn/6049388884518040705/de0777ceb1ca7c9425db.jpg)
+> ![q](https://f4-zpcloud.zdn.vn/3441472507507176148/add2a7e9b5e478ba21f5.jpg)
 
 Nhập địa chỉ IP
 > ![q](https://f5-zpcloud.zdn.vn/4406703477353431809/9f3640fd86f94ba712e8.jpg)
 
 Vậy là 1 website mới đã được thêm vào IIS
 
-> ![q](https://f5-zpcloud.zdn.vn/7702348653818464905/61da962e502a9d74c43b.jpg)
+> ![q](https://f4-zpcloud.zdn.vn/8586348496440518398/78ea96d184dc498210cd.jpg)
 
 Click vào Default Document.
 
-> ![q](https://f5-zpcloud.zdn.vn/7169045046219299361/b8f72800ee04235a7a15.jpg)
+> ![q](https://f4-zpcloud.zdn.vn/772342218834061058/ad92c3a8d1a51cfb45b4.jpg)
 
 Chọn Add.
 
