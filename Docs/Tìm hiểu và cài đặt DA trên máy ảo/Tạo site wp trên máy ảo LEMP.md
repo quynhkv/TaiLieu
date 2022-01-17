@@ -78,7 +78,8 @@ systemctl restart php-fpm
 wget http://wordpress.org/latest.tar.gz
 ```
 - Giải nén tập tin WordPress với đuôi *.tar.gz
-```tar xzvf latest.tar.gz
+```
+tar xzvf latest.tar.gz
 ```
 - Di chuyển nó đến thư mục document root
 ```
