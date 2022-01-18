@@ -19,7 +19,17 @@
 
 ![q](https://f5-zpcloud.zdn.vn/2912797876382796084/e5c202372ef7e3a9bae6.jpg)
 
-### 4. Một số chú ý quan trọng khi tối ưu website WordPress.
+### 4. Một số Cache tối ưu phổ biến nhất.
+- WP Rocket – Cache WordPress Plugin
+- Comet Cache – WordPress Plugin
+- Powered Cache
+- Fresh Performance Cache 
+- Borlabs Cache – WordPress Caching Plugin
+- W3 Total Cache
+- WP Super Cache
+- Cache Enabler
+
+### 5. Một số chú ý quan trọng khi tối ưu website WordPress.
 - Giảm thiểu và kết hợp HTML / CSS / JavaScript có thể phá vỡ chức năng trong website.
     + Việc thu nhỏ về cơ bản thông qua các tập lệnh sẽ loại bỏ dữ liệu không liên quan như nhận xét, định dạng, khoảng trắng và những thứ khác mà máy tính không cần đọc. Việc kết hợp sẽ lấy nội dung của từng tập lệnh riêng lẻ và tổng hợp tất cả chúng thành một tập lệnh duy nhất.
 
